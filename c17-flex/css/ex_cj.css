@@ -1,0 +1,52 @@
+*{margin: 0; padding: 0;}
+header{
+    background-color: black;
+}
+.headertop{
+    height: 48px;
+    background-color: #555;
+    border-bottom: 1px solid #fff ;
+    display: flex;
+    align-items: center;
+}
+.topMenu{
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    text-decoration: none;
+}
+.headerbottom{
+    height: 72px;
+    background-color: #aaa;
+    display: flex;
+    align-items: center;
+}
+.innerContent{
+    width: 1344px;
+    margin: 0 auto;
+    background-color: antiquewhite;
+}
+.conA{
+    height: 1217px;
+    background-color: aquamarine;
+}
+.conB{
+    height: 492px;
+    background-color: peru;
+}
+.conC{
+    height: 1116px;
+    background-color: rgb(205, 63, 134);
+}
+.conD{
+    height: 594px;
+    background-color: rgb(216, 250, 250);
+}
+.conE{
+    height: 518px;
+    background-color: pink;
+}
+footer{
+    height: 704px;
+    background-color: lavender;
+}
